@@ -6,7 +6,7 @@ It will likely include arbitrary specific placeholders instead of properly forma
 Because this is primarily for myself, I likely won't accept excessive files or folders of content not relevant to what I am doing. 
 
 
-Typically I have a particular notation style for text documents. I'll compare it to MD with my notation on the line below each MD line if possible:
+Typically I have a particular notation style for text documents. It was built out of either laziness or MD files lacking navigability in some terminals. I'll compare it to MD with my notation on the line below each MD line if possible.:
 ```
 /// Headers
 
